@@ -1,6 +1,6 @@
 ## Katie Taylor
 
-I'm a researcher at **Fred Hutch** working on single-cell genomics
+I'm a PhD student in UW Molecular and Cellular Biology at **Fred Hutch** working on single-cell genomics
 (scRNA-seq and scATAC-seq) in the Setty lab during my first rotation. 
 
 <!--

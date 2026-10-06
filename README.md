@@ -1,4 +1,7 @@
-## Hi there 👋
+## Katie Taylor
+
+I'm a researcher at **Fred Hutch** working on single-cell genomics
+(scRNA-seq and scATAC-seq) in the Setty lab during my first rotation. 
 
 <!--
 **taylorkatie923/taylorkatie923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
